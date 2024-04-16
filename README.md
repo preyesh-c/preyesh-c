@@ -13,4 +13,4 @@ This page is a short introduction to my journey into the world of coding!
 - 🌱 I’m currently learning the language of Python
 - ⚡ I like problem solving and to me, learning about code is like solving a puzzle!
 
-![Image of a sunset across a lake.](https://www.stockvault.net/data/2007/03/01/100169/thumb16.jpg))
+![Image of a sunset across a lake.](https://www.stockvault.net/data/2007/03/01/100169/thumb16.jpg)
